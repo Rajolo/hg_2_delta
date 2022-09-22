@@ -1,5 +1,5 @@
 //HACK-7 
-//remplazar el item 300 por tú alias
+//remplazar el item 300 por tú alias.
 
 let arr_h7 = [100,200,300,400,500,600,700];
 
