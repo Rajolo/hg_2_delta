@@ -1,5 +1,5 @@
 //HACK-4
-//eliminar los items 300 y 500
+//eliminar los items 300 y 500.
 
 let arr_4 = [100,200,300,400,500,600,700];
 
