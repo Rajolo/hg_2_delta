@@ -1,5 +1,5 @@
 //HACK-5 
-//clonar array
+//clonar array.
 
 let arr_5 = [100,200,300,400,500,600,700];
 
