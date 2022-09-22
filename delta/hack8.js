@@ -1,5 +1,5 @@
 //HACK-8 
-//agregar tú alias al final
+//agregar tú alias al final.
 
 let arr_8 = [100,200,300,400,500,600,700];
 
